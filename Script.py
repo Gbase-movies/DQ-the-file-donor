@@ -190,7 +190,13 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
+    CAPTION = """
+    <b> FILE NAME : </b> <code>{file_name}</code>
     
+    <b>
+    Subscribe 
+    https://m.youtube.com/@SWAFLIX
+    </b>
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}

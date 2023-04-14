@@ -195,12 +195,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://swaflix.xyz">Tᴏᴜᴄʜ</a>
+🔅 SWAFLIX ⚡⚡⚡⏯️⏯️
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @swaflixhub
-▫️ YouTube : https://m.youtube.com/@Swaflix
+▫️ 
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
